@@ -1,2 +1,2 @@
 # Examplified
-Examplified is a exam simulation prooject.
+Examplified is an exam simulation prooject.
